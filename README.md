@@ -4,24 +4,40 @@
 The purpose of this analysis is to review various PyBer data during a specific time frame as it relates to city type: Urban, Suburban, and Rural.  They analysis of PyBer data in this way can assist the company in its decision making process for operations in these three city types. 
 
 ## Results
-Below are the results deom creating DataFrames based on speciic metrics. 
+Below are the results deom creating DataFrames based on speciic metrics. As one might expect, the total PyBer ride count was highest for Urban areas, followed by Suburban, then Rural.  The numbers are below.
 
 ### Total Ride Count
-As one might expect, the total PyBer ride count was highest for Urban areas, followed by Suburban, then Rural.  The numbers are below
-    - Urban:
-    - Suburban:
-    - Rural:
+
+    - Urban: 1625
+    - Suburban: 625
+    - Rural: 125
 
 ### Total Driver Count
-
+    - Urban: 2405
+    - Suburban: 490
+    - Rural: 78
 
 ### Total Fare Count
-
-
-### Average Fares by Driver
-
+    - Urban: $39,854.38
+    - Suburban: $19,356.33
+    - Rural: $4,327.93
 
 ### Average Fares per Ride
+    - Rural: $34.62
+    - Suburban: $30.97
+    - Urban: $24.53
+
+### Average Fares by Driver
+    - Rural: $55.49
+    - Suburban: $39.50
+    - Urban: $16.57
+
+### Summary DataFrame
+![PyBer Summary](https://github.com/cflavallee/Pyber_Analysis/blob/main/analysis/Summary%20DataFrame.PNG)
 
 
-## Summary 
+### Total Fares by Week
+![PyBer Summary](https://github.com/cflavallee/Pyber_Analysis/blob/main/analysis/TotalFare.png)
+
+
+## Analysis Summary 

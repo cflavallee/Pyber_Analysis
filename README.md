@@ -41,6 +41,8 @@ Below are the results from creating DataFrames based on a nubmer of categories. 
 
 
 ### Total Fares by Week
+The peaks and valleys for each city type are very similar, which could mean that the date and time affect rides counts across city type. 
+
 ![PyBer Summary](https://github.com/cflavallee/Pyber_Analysis/blob/main/analysis/TotalFare.png)
 
 

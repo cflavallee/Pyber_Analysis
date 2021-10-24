@@ -4,7 +4,7 @@
 The purpose of this analysis is to examine PyBer data from a specific time frame as it relates to city type: Urban, Suburban, and Rural.  Various categories are highlighted and a line graph of weekly fares by city type was created.  The analysis of PyBer data in this way can assist the company in its decision making process for operations within these three city types. 
 
 ## Results
-Below are the results from creating DataFrames based on a nubmer of categories. The individiual numbers by category are given as well as a summary table.  As one might expect, Urban areas had higher total numbers, however, Rural areas had the highest fare per ride average, as well as average fare per driver. This could be due to the greater distance between destinations in rural areas. Additionally, a category for the number of rides per driver was added to see how productive the drivers were in each type of city.
+Below are the results from creating DataFrames based on a number of categories. The individual numbers by category are given as well as a summary table.  As one might expect, Urban areas had higher total numbers, however, Rural areas had the highest fare per ride average, as well as average fare per driver. This could be due to the greater distance between destinations in rural areas. Additionally, a category for the number of rides per driver was added to see how productive the drivers were in each type of city.
 
 ### Total Ride Count
 - Urban: 1625
@@ -47,7 +47,7 @@ The peaks and valleys for each city type are very similar, which could mean that
 
 
 ## Analysis Summary 
-Based on the parsed data, there are various disparities that became apparent.  Further research would need to be done in order to confirm the reasons behind the numbers disparities, as factors other than city type could affect the numbers.  However, this analysis gives a starting point for possible changes.  Below are three reccomendations for the PyBer decision makers in order to increase productivity.  
+Based on the parsed data, there are various disparities that became apparent.  Further research would need to be done in order to confirm the reasons behind the numbers disparities, as factors other than city type could affect the numbers.  However, this analysis gives a starting point for possible changes.  Below are three recommendations for the PyBer decision makers in order to increase productivity.  
 
 - Decrease the number of Urban drivers.  There were more drivers than total rides, which means that some drivers did not give any rides during the given time frame.  It is not clear from the raw data why this was the case, but it is clear that there are drivers in Urban areas that are not needed. 
 
